@@ -1,6 +1,7 @@
 # OPA Policy Spring Boot Application
 
 This application demonstrates a secure Spring Boot application that integrates with Open Policy Agent (OPA) for fine-grained authorization control. It features JWT-based authentication and role-based access control using OPA policies.
+Read the accompanying blog to better understand how the project works: https://blog.arunbalachandran.com/building-a-policy-engine-using-opa-open-policy-agent
 
 ## Features
 
